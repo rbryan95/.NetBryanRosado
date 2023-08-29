@@ -1,0 +1,15 @@
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.csproj.AssemblyReference.cache
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.AssemblyInfoInputs.cache
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.AssemblyInfo.cs
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.csproj.CoreCompileInputs.cache
+C:\Users\brosado1\Documents\ticketing\bin\Debug\net6.0\ticketing.exe
+C:\Users\brosado1\Documents\ticketing\bin\Debug\net6.0\ticketing.deps.json
+C:\Users\brosado1\Documents\ticketing\bin\Debug\net6.0\ticketing.runtimeconfig.json
+C:\Users\brosado1\Documents\ticketing\bin\Debug\net6.0\ticketing.dll
+C:\Users\brosado1\Documents\ticketing\bin\Debug\net6.0\ticketing.pdb
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.dll
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\refint\ticketing.dll
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.pdb
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ticketing.genruntimeconfig.cache
+C:\Users\brosado1\Documents\ticketing\obj\Debug\net6.0\ref\ticketing.dll
